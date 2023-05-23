@@ -5,9 +5,10 @@
 #        Release:	22.04
 #        Codename:	jammy
 
-#Referencia https://docs.docker.com/engine/install/ubuntu/
-            https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
-            https://openai.com/product/chatgpt
+#Referencia:
+#           https://docs.docker.com/engine/install/ubuntu/
+#           https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
+#           https://openai.com/product/chatgpt
 
 # Testado dia 23 Maio 2023.
 
